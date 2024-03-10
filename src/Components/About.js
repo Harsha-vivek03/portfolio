@@ -51,7 +51,7 @@ const About = () => {
              <div className="div">
                 <ul className="thul">
                     <li>C,Python Programming</li>
-                    <div class="skills"><div class="c">50% </div></div>
+                    <div class="skills"><div class="c">70% </div></div>
                     <li>Web Designing</li>
                     <div class="skills"><div class="web">80% </div></div>
                     <li>Microsoft Excel</li>
