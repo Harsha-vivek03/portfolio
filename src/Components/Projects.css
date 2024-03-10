@@ -1,0 +1,30 @@
+/* *{
+    border: 1px solid white;
+} */
+.projects{
+
+    margin: 3%;
+}
+#line{
+    border: 0.5px solid lightslategrey;
+}
+
+
+.mainprojects{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20%;
+    width:100%;
+    padding: 10%;
+    padding-top:5%;
+
+   
+
+}
+.project img{
+    border: 0.5px solid lightslategrey;
+    border-radius: 10px;
+   
+    height: 35vh;
+    width:20vw
+}

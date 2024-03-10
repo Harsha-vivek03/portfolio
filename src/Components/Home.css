@@ -1,0 +1,55 @@
+
+/* *{
+    border-top: 1px solid white;
+} */
+
+.home{
+    margin:8%;
+    margin-right: 3%;
+}
+
+.pp{
+    color: #acdcee;
+    font-size:1.3rem;
+    margin-right: 3%;
+    
+}
+
+
+.btns{
+    font-size:1.5rem;
+    border-radius: 10px;
+    color:white;
+    background-color:#ff6f3c; 
+    ;
+    margin:2%;
+    margin-right:8%;
+    margin-left: 0;
+    padding:2px 4px;
+}
+.btns:hover{
+    color:orangered;
+    background-color:white;
+   
+}
+.bgroup{
+    margin: 4%;
+    margin-left:0px;
+}
+.home img{
+    border-radius: 50%;
+    box-shadow: 3px 3px 20px 1px white;
+  }
+  h1{
+    margin-right: 3%;
+}
+
+.link{
+    text-decoration: none;  
+    color:whitesmoke; 
+    border-radius: 10px;
+    padding: 3px 5px;
+}
+.link:hover{
+    color: #081f37;
+}

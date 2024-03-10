@@ -1,0 +1,44 @@
+/* *{
+    border: 1px solid white;
+} */
+.contact{
+    margin: 3%;
+}
+
+.formsdiv{
+    display: flex;
+    justify-content:space-evenly;
+   
+
+}
+
+#form1{
+    width: 40%;
+}
+#form2{
+    width: 40%;
+}
+
+#form2 h2{
+    color: lightcoral;
+}
+.icons{
+    font-size:5vh;
+    margin-right: 4%;
+    
+    color: rgb(101, 134, 145);
+    
+ 
+}
+
+.thank{
+    color: black;
+}
+.send{
+    font-size:  1.5rem;
+    
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}

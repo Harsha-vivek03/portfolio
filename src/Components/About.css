@@ -1,0 +1,106 @@
+/* *{
+    border: 1px solid white;
+} */
+
+.about{
+    margin: 3%;
+}
+
+#line{
+    border: 0.5px solid lightslategrey;
+}
+
+.divs{
+    display: flex;
+    /* align-items: center; */
+    
+}
+
+.div{
+    width: 50vw ;
+}
+.div ul li{
+font-size:1.2rem;
+}
+
+
+.div ul{
+    margin-left:0px;
+}
+.div li{
+    margin-left:0px;
+    color:bisque;
+}
+
+.fiul{
+    list-style-type: none;
+}
+.thul{
+    list-style-type: circle;
+}
+.foul{
+    list-style-type: square;
+}
+
+
+.subhead{
+    width: 40vw;
+    font-size: 2rem ;
+color: white;
+}
+
+.skills{
+    width:400px;
+    border:0.5px solid white;
+    background-color: gray;
+    border-radius:8px;
+}
+.c{
+    width:70%;
+    background-color:orange;
+    border-radius:8px;
+    text-align: right;
+}
+
+.web{
+    width:80%;
+    background-color:blueviolet;
+    border-radius:8px;
+    text-align: right;
+}
+
+.micro{
+    width:70%;
+    background-color:cadetblue;
+    border-radius:8px;
+    text-align: right;
+}
+.comm{
+    width:90%;
+    background-color:coral;
+    border-radius:8px;
+    text-align: right;
+}
+.time{
+    width:100%;
+    background-color:cornflowerblue;
+    border-radius:8px;
+    text-align: right;
+}
+.data{
+    width:60%;
+    background-color:hotpink;
+    border-radius:8px;
+    text-align: right;
+}
+.structure{
+    width:70%;
+    background-color:lightgreen;
+    border-radius:8px;
+    text-align: right;
+}
+
+.iconss{
+    color: lightsteelblue;
+    margin-right: 1%;
+}
