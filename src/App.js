@@ -12,15 +12,15 @@ function App() {
 
   
   return (
-    <Router>
+    <Router basename="/portfolio">
     <div className='main' >
       
       
     <Routes>
-        <Route path="/portfolio" element={<Home  name="Sirla Ganesh" /> } />
-        <Route path="/portfolio/about" element={<About /> } />
-        <Route path="/portfolio/projects" element={<Projects /> } />
-        <Route path="/portfolio/contact" element={<Contact /> } />
+        <Route path="/" element={<Home  name="Sirla Ganesh" /> } />
+        <Route path="/about" element={<About /> } />
+        <Route path="/projects" element={<Projects /> } />
+        <Route path="/contact" element={<Contact /> } />
       </Routes> 
       
     </div>
