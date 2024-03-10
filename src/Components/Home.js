@@ -34,8 +34,8 @@ const Home = (props) => {
       I'm an Information Technology student at JNTUGV Vizianagaram. My roll number is 23VV1A1249. I come from a supportive family. My father, Sirla Bhagavan, is a farmer, and my mother, Sirla Chinnammudu, is a homemaker. I have a younger sister, Sirlayamani, who is currently in 10th grade at ZPHS School, Urlam. My long-term goal is to become a Navy Officer.
 </p>
     <div className="bgroup">
-    <button className="btns"><Link className="link" to="/projects"> My Portfolio</Link></button>
-    <button className="btns"><Link className="link" to="/About"> About</Link></button>
+    <button className="btns"><Link className="link" to="/portfolio/projects"> My Portfolio</Link></button>
+    <button className="btns"><Link className="link" to="/portfolio/About"> About</Link></button>
     </div>
     </div>
     </div>
